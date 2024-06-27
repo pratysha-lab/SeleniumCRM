@@ -18,4 +18,12 @@ public void modifyContactTest() {
 	System.out.println(URL);
 		
 }
+@Test
+public void deleteContactTest() {
+	String 	URL=System.getProperty("url");
+	System.out.println("Executed modifyContactTest");
+	System.out.println(URL);
+		
+}
+
 }
