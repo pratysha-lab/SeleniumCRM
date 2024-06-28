@@ -17,4 +17,11 @@ public class CreateOrgTest {
 		System.out.println(PASSWORD);
 		
 	}
+	@Test
+	public void deleteOrgTest() {
+		String 	PASSWORD=System.getProperty("password");
+		System.out.println("Executed deletedOrgTest");
+		System.out.println(PASSWORD);
+		
+	}
 }

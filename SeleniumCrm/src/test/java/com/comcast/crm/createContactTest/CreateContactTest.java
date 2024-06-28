@@ -21,7 +21,7 @@ public void modifyContactTest() {
 @Test
 public void deleteContactTest() {
 	String 	URL=System.getProperty("url");
-	System.out.println("Executed modifyContactTest");
+	System.out.println("Executed deletedContactTest");
 	System.out.println(URL);
 		
 }
